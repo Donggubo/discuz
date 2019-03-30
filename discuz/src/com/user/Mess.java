@@ -1,5 +1,11 @@
 package com.user;
-
+/**
+ * 
+ * Mess实体类
+ * 
+ * @author 董
+ *
+ */
 public class Mess {
     private int id;
     private String title;
